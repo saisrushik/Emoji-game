@@ -1,0 +1,50 @@
+.navbar-container {
+  height: 14vh;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: #ffffff33;
+}
+.logo-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-left: 30px;
+}
+.logo {
+  height: 60px;
+  width: 60px;
+  margin-left: 5px;
+}
+.heading {
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-weight: 500;
+  color: #ffffff;
+  text-align: center;
+  margin-left: 15px;
+}
+.score-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-right: 30px;
+}
+.current-score {
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 400;
+  color: #ffffff;
+  text-align: center;
+  margin-right: 20px;
+}
+.top-score {
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 400;
+  color: #ffffff;
+  text-align: center;
+  margin-left: 15px;
+  margin-right: 20px;
+}
